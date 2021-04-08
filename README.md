@@ -1,4 +1,7 @@
 # Trajformer
+
+*News:* The code will be released soon this month!
+
 ![overview image](Trajformer.PNG)
 
 
