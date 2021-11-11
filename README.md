@@ -1,6 +1,6 @@
 # Trajformer
 
-After hearing about the feedback for the delay in the code-base publications, we are addressing some concerns, 
+After hearing about the feedback for the delay in the code-base publications, we are addressing some concerns.
 We are in the process of finishing the legal process with the company and would be pushing the code soon before the recent NeurIPS deadline.
 We sincerely apologize the delay and update soon.
 
@@ -31,4 +31,3 @@ If you find this work useful, please consider citing:
   year={2020}
 }
 ```
-The code will be uploaded soon!
