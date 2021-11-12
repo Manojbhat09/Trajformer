@@ -1,10 +1,6 @@
 # Trajformer
 
-After hearing about the feedback for the delay in the code-base publications, we are addressing some concerns.
-We are in the process of finishing the legal process with the company and would be pushing the code soon before the recent NeurIPS deadline.
-We sincerely apologize the delay and update soon.
-
-![overview image](Trajformer.PNG)
+![overview image](img/Trajformer.PNG)
 
 
 Official implementation (PyTorch) of the paper: \
@@ -21,6 +17,13 @@ with improved parameter efficiency. We show improvements on standard metrics
 (minADE, minFDE, DAO, DAC) over various baselines on the Argoverse dataset.
 
 [Video](https://ml4ad.github.io/)
+
+Updates:
+* After hearing about the feedback for the delay in the code-base publications, we are addressing some concerns.
+
+ The root codebase (GPLv2) has been committed to the repository, the encoder will be added into utils next with approved licence.
+
+* We are updating the code to include transformer encoders
 
 If you find this work useful, please consider citing:
 ```
